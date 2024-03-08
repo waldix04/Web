@@ -11,7 +11,7 @@
         <div class="logo">AutoWelt</div>
         <nav>
             <ul>
-                <li><a href="home.html">Home</a></li>
+                <li><a href="/web/Navigator/home.php">Home</a></li>
                 <li><a href="#">Neuwagen</a>
                     <ul class="dropdown">
                         <li><a href="neuwagen.html">Sportwagen</a></li>
@@ -37,14 +37,14 @@
                 <img src="/web/Bilder/aventador.jpg" alt="Lamborghini Aventador">
                 <h2>Lamborghini Aventador</h2>
                 <p>Der Lamborghini Aventador vereint beeindruckende Leistung mit atemberaubendem Design.</p>
-                <a href="/web/Beispielseiten/lamborghini-aventador-info.html" class="btn">Mehr erfahren</a>
+                <a href="/web/Beispielseiten/lamborghini-aventador-info.php" class="btn">Mehr erfahren</a>
             </article>
             
             <article>
                 <img src="ferrari.jpg" alt="Ferrari F8">
                 <h2>Ferrari F8 Tributo</h2>
                 <p>Ein Tribut an die unübertroffene Leistungsfähigkeit der Ferrari V8-Motoren.</p>
-                <a href="/web/Beispielseiten/ferrari-f8-info.html" class="btn">Mehr erfahren</a>
+                <a href="/web/Beispielseiten/ferrari-f8-info.php" class="btn">Mehr erfahren</a>
             </article>
         </section>
 

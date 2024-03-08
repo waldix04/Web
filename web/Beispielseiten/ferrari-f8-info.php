@@ -9,7 +9,7 @@
     <header>
         <nav>
             <ul>
-                <li><a href="/web/Hauptseiten/Frari.html">Zurück zur Hauptseite</a></li>
+                <li><a href="/web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
             </ul>
         </nav>
     </header>
