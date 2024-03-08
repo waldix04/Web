@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Auto Welt - Luxus und Leistung</title>
-    <link rel="icon" href="Bilder/favicon.png">
+    <link rel="icon" href="/web/Bilder/favicon.png">
     <link rel="stylesheet" href="frari.css">
 </head>
 <body>
@@ -12,10 +12,10 @@
         <div class="logo">AutoWelt</div>
         <nav>
             <ul>
-                <li><a href="/Web/Web/web/Navigator/home.php">Home</a></li>
-                <li><a href="/Web/Web/web/Navigator/neuwagen.php">Neuwagen</a>
-                <li><a href="/Web/Web/web/Navigator/gebrauchtwagen.php">Gebrauchtwagen</a></li>
-                <li><a href="kontakt.html">Kontakt</a></li>
+                <li><a href="/Web/Navigator/home.php">Home</a></li>
+                <li><a href="/Web/Navigator/neuwagen.php">Neuwagen</a>
+                <li><a href="/Web/Navigator/gebrauchtwagen.php">Gebrauchtwagen</a></li>
+                <li><a href="/Web/Navigator/kontakt.php">Kontakt</a></li>
             </ul>
         </nav>
         
@@ -29,17 +29,17 @@
 
         <section class="featured">
             <article>
-                <img src="/Web/web/web/Bilder/aventador.jpg" alt="Lamborghini Aventador">
+                <img src="/Web/Bilder/aventador.jpg" alt="Lamborghini Aventador">
                 <h2>Lamborghini Aventador</h2>
                 <p>Der Lamborghini Aventador vereint beeindruckende Leistung mit atemberaubendem Design.</p>
-                <a href="/Web/Web/web/Beispielseiten/lamborghini-aventador-info.php" class="btn">Mehr erfahren</a>
+                <a href="/Web/Beispielseiten/lamborghini-aventador-info.php" class="btn">Mehr erfahren</a>
             </article>
             
             <article>
                 <img src="ferrari.jpg" alt="Ferrari F8">
                 <h2>Ferrari F8 Tributo</h2>
                 <p>Ein Tribut an die unübertroffene Leistungsfähigkeit der Ferrari V8-Motoren.</p>
-                <a href="/Web/Web/web/Beispielseiten/ferrari-f8-info.php" class="btn">Mehr erfahren</a>
+                <a href="/Web/Beispielseiten/ferrari-f8-info.php" class="btn">Mehr erfahren</a>
             </article>
         </section>
 

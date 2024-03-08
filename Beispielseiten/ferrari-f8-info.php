@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <title>Ferrari F8 Tributo</title>
     <link rel="stylesheet" href="../Hauptseiten/frari.css">
+    <link rel="icon" href="/web/Bilder/favicon.png">
 </head>
 <body>
     <header>
         <nav>
             <ul>
-                <li><a href="/Web/Web/web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
+                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
             </ul>
         </nav>
     </header>

@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neue Supersportwagen</title>
-    <link rel="stylesheet" href="/Web/Web/web/Hauptseiten/frari.css"> <!-- Stellen Sie sicher, dass der Pfad zu Ihrer CSS-Datei korrekt ist -->
+    <link rel="stylesheet" href="/Web/Hauptseiten/frari.css"> 
+    <link rel="icon" href="/web/Bilder/favicon.png">
 </head>
 <body>
 
@@ -12,7 +13,7 @@
 <header>
         <nav>
             <ul>
-                <li><a href="/Web/Web/web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
+                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
             </ul>
         </nav>
     </header>
