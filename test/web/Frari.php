@@ -45,7 +45,7 @@
                 <img src="ferrari.jpg" alt="Ferrari F8">
                 <h2>Ferrari F8 Tributo</h2>
                 <p>Ein Tribut an die unübertroffene Leistungsfähigkeit der Ferrari V8-Motoren.</p>
-                <a href="ferrari-f8-info.html" class="btn">Mehr erfahren</a>
+                <a href="" class="btn">Mehr erfahren</a>
             </article>
         </section>
 

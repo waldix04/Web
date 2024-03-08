@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Lamborghini Aventador</title>
-    <link rel="stylesheet" href="/web/Hauptseiten/frari.css">
+    <link rel="stylesheet" href="../Hauptseiten/frari.css">
 </head>
 <body>
     <header>
         <nav>
             <ul>
-                <li><a href="/web/Hauptseiten/Frari.html">Zurück zur Hauptseite</a></li>
+                <li><a href="/Web/Web/web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
             </ul>
         </nav>
     </header>
