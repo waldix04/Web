@@ -7,14 +7,10 @@
     <link rel="stylesheet" href="/Web/Web/web/Hauptseiten/frari.css">
 </head>
 <body>
-    <header>
-        <div class="logo">AutoWelt</div>
+<header>
         <nav>
             <ul>
-                <li><a href="home.html">Home</a></li>
-                <li><a href="neuwagen.html">Neuwagen</a></li>
-                <li><a href="gebrauchtwagen.html">Gebrauchtwagen</a></li>
-                <li><a href="kontakt.html">Kontakt</a></li>
+                <li><a href="/Web/Web/web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
             </ul>
         </nav>
     </header>

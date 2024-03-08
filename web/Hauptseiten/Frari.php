@@ -12,14 +12,8 @@
         <nav>
             <ul>
                 <li><a href="/Web/Web/web/Navigator/home.php">Home</a></li>
-                <li><a href="#">Neuwagen</a>
-                    <ul class="dropdown">
-                        <li><a href="neuwagen.html">Sportwagen</a></li>
-                        <li><a href="neuwagen.html">SUVs</a></li>
-                        <li><a href="neuwagen.html">Limousinen</a></li>
-                    </ul>
-                </li>
-                <li><a href="gebrauchtwagen.html">Gebrauchtwagen</a></li>
+                <li><a href="/Web/Web/web/Navigator/neuwagen.php">Neuwagen</a>
+                <li><a href="/Web/Web/web/Navigator/gebrauchtwagen.php">Gebrauchtwagen</a></li>
                 <li><a href="kontakt.html">Kontakt</a></li>
             </ul>
         </nav>
