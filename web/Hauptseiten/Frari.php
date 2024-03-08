@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Auto Welt - Luxus und Leistung</title>
+    <link rel="icon" href="Bilder/favicon.png">
     <link rel="stylesheet" href="frari.css">
 </head>
 <body>
