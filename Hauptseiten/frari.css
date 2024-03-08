@@ -140,3 +140,56 @@ footer section {
         flex-basis: 100%;
     }
 }
+
+/* Stile für das Impressum */
+.impressum-container {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.impressum-container header h1 {
+    color: #007BFF;
+    text-align: center;
+}
+
+.impressum-container main section {
+    margin-bottom: 20px;
+}
+
+.impressum-container main section h2 {
+    margin-bottom: 10px;
+}
+
+.impressum-container footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
+
+
+/* Stile für die Datenschutzerklärung */
+.datenschutz-container {
+    width: 80%;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.datenschutz-container header h1 {
+    color: #007BFF;
+    text-align: center;
+}
+
+.datenschutz-container main section {
+    margin-top: 20px;
+}
+
+.datenschutz-container footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}

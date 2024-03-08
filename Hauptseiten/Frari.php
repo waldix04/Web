@@ -36,7 +36,7 @@
             </article>
             
             <article>
-                <img src="ferrari.jpg" alt="Ferrari F8">
+                <img src="/web/Bilder/ferrarif8tributo.jpg" alt="Ferrari F8">
                 <h2>Ferrari F8 Tributo</h2>
                 <p>Ein Tribut an die unübertroffene Leistungsfähigkeit der Ferrari V8-Motoren.</p>
                 <a href="/Web/Beispielseiten/ferrari-f8-info.php" class="btn">Mehr erfahren</a>
@@ -46,8 +46,8 @@
         <aside>
             <h3>Neuigkeiten & Events</h3>
             <ul>
-                <li><a href="#">Auto Show 2024: Was zu erwarten ist</a></li>
-                <li><a href="#">Lamborghini enthüllt neues Modell</a></li>
+                <li><a href="/web/Artikel/autoshow.php">Auto Show 2024: Was zu erwarten ist</a></li>
+                <li><a href="/web/Artikel/enthüllung.php">Lamborghini enthüllt neues Modell</a></li>
             </ul>
         </aside>
     </main>
@@ -74,7 +74,7 @@
         </section>
 
         <p>© 2024 Auto Welt. Alle Rechte vorbehalten.</p>
-        <p><a href="#">Impressum</a> | <a href="#">Datenschutz</a></p>
+        <p><a href="../templates/impressum.php">Impressum</a> | <a href="../templates/datenschutz.php">Datenschutz</a> | <a href="../templates/kontaktform.php">Kontakt</a></p> 
     </footer>
 </body>
 </html>

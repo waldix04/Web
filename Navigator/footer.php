@@ -20,5 +20,5 @@
     </section>
 
     <p>© 2024 Auto Welt. Alle Rechte vorbehalten.</p>
-    <p><a href="#">Impressum</a> | <a href="#">Datenschutz</a></p>
+    <p><a href="#">Impressum</a> | <a href="#">Datenschutz</a> | <a href="#">Kontakt</a></p>
 </footer>

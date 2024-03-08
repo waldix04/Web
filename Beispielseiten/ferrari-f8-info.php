@@ -17,7 +17,7 @@
 
     <main>
         <h1>Ferrari F8 Tributo</h1>
-        <img src="ferrari-f8.jpg" alt="Ferrari F8 Tributo" style="width:100%;">
+        <img src="/web/bilder/ferrarif8tributo.jpg" alt="Ferrari F8 Tributo" style="width:100%;">
         <p>Der Ferrari F8 Tributo ist das neueste Supercar aus dem Hause Ferrari, das eine Hommage an den leistungsstärksten V8-Motor in der Geschichte von Ferrari darstellt. Mit seiner außergewöhnlichen Leistung und seinem atemberaubenden Design setzt der F8 Tributo neue Maßstäbe im Supercar-Segment.</p>
         
         <h2>Spezifikationen</h2>
