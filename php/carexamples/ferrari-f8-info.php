@@ -3,21 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Ferrari F8 Tributo</title>
-    <link rel="stylesheet" href="../Hauptseiten/frari.css">
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+    <?php include '../../php/templates/header.php'; ?>
     </header>
 
     <main>
         <h1>Ferrari F8 Tributo</h1>
-        <img src="/web/bilder/ferrarif8tributo.jpg" alt="Ferrari F8 Tributo" style="width:100%;">
+        <img src="../../assets/images/ferrarif8tributo.jpg" alt="Ferrari F8 Tributo" style="width:100%;">
         <p>Der Ferrari F8 Tributo ist das neueste Supercar aus dem Hause Ferrari, das eine Hommage an den leistungsstärksten V8-Motor in der Geschichte von Ferrari darstellt. Mit seiner außergewöhnlichen Leistung und seinem atemberaubenden Design setzt der F8 Tributo neue Maßstäbe im Supercar-Segment.</p>
         
         <h2>Spezifikationen</h2>
@@ -31,7 +27,7 @@
     </main>
 
     <footer>
-        <p>© 2024 Auto Welt. Alle Rechte vorbehalten.</p>
+    <?php include '../../php/templates/footer2.php'; ?>
     </footer>
 </body>
 </html>

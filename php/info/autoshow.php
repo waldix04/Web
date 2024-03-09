@@ -4,18 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Futurama Wheels 2024</title>
-    <link rel="stylesheet" href="/web/Hauptseiten/frari.css"> 
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
 
 <header>
     <h1>Futurama Wheels 2024 - Die Auto Show der Zukunft</h1>
-    <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+    <?php include '../../php/templates/header.php'; ?>
 </header>
 
 <main>
@@ -83,7 +79,7 @@
 </main>
 
 <footer>
-<?php include '../Navigator/footer.php'; ?>
+<?php include '../../php/templates/footer2.php'; ?>
 </footer>
 
 </body>

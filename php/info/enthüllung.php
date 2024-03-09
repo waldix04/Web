@@ -4,19 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lamborghini Enthüllung</title>
-    <link rel="stylesheet" href="/Web/Hauptseiten/frari.css"> 
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
 
 <header>
     <h1>Enthüllung des neuen Lamborghini</h1>
-
-    <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+    <?php include '../../php/templates/header.php'; ?>
 </header>
 
 <main>
@@ -60,7 +55,7 @@
 </main>
 
 <footer>
-<?php include '../Navigator/footer.php'; ?>
+<?php include '../../php/templates/footer2.php'; ?>
 </footer>
 
 </body>

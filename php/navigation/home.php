@@ -4,16 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home - Auto Welt</title>
-    <link rel="stylesheet" href="/Web/Hauptseiten/frari.css">
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
 <header>
-        <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+<?php include '../../php/templates/header.php'; ?>
     </header>
 
     <main>
@@ -71,6 +67,6 @@
             <!-- Details zu speziellen Angeboten hinzufügen -->
         </section>
     </main>
-    <?php include 'footer.php'; ?>
+    <?php include '../../php/templates/footer2.php'; ?>
 </body>
 </html>

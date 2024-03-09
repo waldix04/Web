@@ -4,19 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kontakt</title>
-    <link rel="stylesheet" href="../Hauptseiten/frari.css"> 
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
 
 <div class="datenschutz-container">
     <header>
         <h1>Kontakt</h1>
-        <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+        <?php include '../../php/templates/header2.php'; ?>
     </header>
 
     <main>
@@ -35,7 +31,7 @@
     </main>
 
     <footer>
-    <?php include '../Navigator/footer.php'; ?>
+    <?php include '../../php/templates/footer3.php'; ?>
     </footer>
 </div>
 

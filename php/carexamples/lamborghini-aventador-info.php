@@ -3,21 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Lamborghini Aventador</title>
-    <link rel="stylesheet" href="../Hauptseiten/frari.css">
-    <link rel="icon" href="/web/Bilder/favicon.png">
+    <link rel="stylesheet" href="../../css/all.css">
+    <link rel="icon" href="../../favicon.png">
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="/Web/Hauptseiten/Frari.php">Zurück zur Hauptseite</a></li>
-            </ul>
-        </nav>
+    <?php include '../../php/templates/header.php'; ?>
     </header>
 
     <main>
         <h1>Lamborghini Aventador</h1>
-        <img src="/web/Bilder/aventador.jpg" alt="Lamborghini Aventador" style="width:100%;">
+        <img src="../../assets/images/aventador.jpg" alt="Lamborghini Aventador" style="width:100%;">
         <p>Der Lamborghini Aventador repräsentiert das Spitzenmodell der Lamborghini-Reihe. Mit seinem kraftvollen V12-Motor und seiner herausragenden Dynamik bietet der Aventador ein unvergleichliches Fahrerlebnis.</p>
         
         <h2>Spezifikationen</h2>
@@ -31,7 +27,7 @@
     </main>
 
     <footer>
-        <p>© 2024 Auto Welt. Alle Rechte vorbehalten.</p>
+    <?php include '../../php/templates/footer2.php'; ?>
     </footer>
 </body>
 </html>
