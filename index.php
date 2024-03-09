@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Auto Welt - Luxus und Leistung</title>
+    <link rel="icon" href="../favicon.png">
     <link rel="stylesheet" href="frari.css">
 </head>
 <body>
@@ -11,20 +12,13 @@
         <div class="logo">AutoWelt</div>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Neuwagen</a>
-                    <ul class="dropdown">
-                        <li><a href="#">Sportwagen</a></li>
-                        <li><a href="#">SUVs</a></li>
-                        <li><a href="#">Limousinen</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Gebrauchtwagen</a></li>
-                <li><a href="#">Kontakt</a></li>
-                <li><a href="register.php">Registrieren</a></li>
-            <li><a href="login.php">Login</a></li>
+                <li><a href="/Web/Navigator/home.php">Home</a></li>
+                <li><a href="/Web/Navigator/neuwagen.php">Neuwagen</a>
+                <li><a href="/Web/Navigator/gebrauchtwagen.php">Gebrauchtwagen</a></li>
+                <li><a href="/Web/Navigator/kontakt.php">Kontakt</a></li>
             </ul>
         </nav>
+        
     </header>
 
     <main>
@@ -35,25 +29,25 @@
 
         <section class="featured">
             <article>
-                <img src="lamborghini.jpg" alt="Lamborghini Aventador">
+                <img src="/Web/Bilder/aventador.jpg" alt="Lamborghini Aventador">
                 <h2>Lamborghini Aventador</h2>
                 <p>Der Lamborghini Aventador vereint beeindruckende Leistung mit atemberaubendem Design.</p>
-                <a href="lamborghini-aventador-info.html" class="btn">Mehr erfahren</a>
+                <a href="/Web/Beispielseiten/lamborghini-aventador-info.php" class="btn">Mehr erfahren</a>
             </article>
             
             <article>
-                <img src="ferrari.jpg" alt="Ferrari F8">
+                <img src="/web/Bilder/ferrarif8tributo.jpg" alt="Ferrari F8">
                 <h2>Ferrari F8 Tributo</h2>
                 <p>Ein Tribut an die unübertroffene Leistungsfähigkeit der Ferrari V8-Motoren.</p>
-                <a href="" class="btn">Mehr erfahren</a>
+                <a href="/Web/Beispielseiten/ferrari-f8-info.php" class="btn">Mehr erfahren</a>
             </article>
         </section>
 
         <aside>
             <h3>Neuigkeiten & Events</h3>
             <ul>
-                <li><a href="#">Auto Show 2024: Was zu erwarten ist</a></li>
-                <li><a href="#">Lamborghini enthüllt neues Modell</a></li>
+                <li><a href="/web/Artikel/autoshow.php">Auto Show 2024: Was zu erwarten ist</a></li>
+                <li><a href="/web/Artikel/enthüllung.php">Lamborghini enthüllt neues Modell</a></li>
             </ul>
         </aside>
     </main>
@@ -80,7 +74,7 @@
         </section>
 
         <p>© 2024 Auto Welt. Alle Rechte vorbehalten.</p>
-        <p><a href="#">Impressum</a> | <a href="#">Datenschutz</a></p>
+        <p><a href="../templates/impressum.php">Impressum</a> | <a href="../templates/datenschutz.php">Datenschutz</a> | <a href="../templates/kontaktform.php">Kontakt</a></p> 
     </footer>
 </body>
 </html>
