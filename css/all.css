@@ -201,3 +201,17 @@ h1 {
 p{
     text-align: center;
 }
+
+
+.enthullung-bild {
+    width: 300px;  /* Breite der Bilder */
+    height: auto;  /* Höhe automatisch anpassen */
+    margin: 10px;  /* Abstand zwischen den Bildern */
+}
+
+.bilder-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;  /* Zentriert die Bilder horizontal */
+    align-items: center;      /* Zentriert die Bilder vertikal */
+}

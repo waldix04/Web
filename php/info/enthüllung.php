@@ -38,11 +38,11 @@
 
     <section>
         <h2>Fotogalerie</h2>
-        <p>Erleben Sie den Lamborghini Futura in all seiner Pracht:</p>
-        <div>
-            <img src="pfad/zum/bild1.jpg" alt="Lamborghini Futura Frontansicht">
-            <img src="pfad/zum/bild2.jpg" alt="Lamborghini Futura Seitenansicht">
-            <img src="pfad/zum/bild3.jpg" alt="Lamborghini Futura Innenraum">
+        <p>Erleben Sie den Lamborghini Millennio in all seiner Pracht:</p>
+        <div class="bilder-container">
+            <img src="../../assets/images/lambo-frontansicht.jpg" class="enthullung-bild" alt="Lamborghini Millennio Frontansicht">
+            <img src="../../assets/images/lambo-seite.jpg" class="enthullung-bild" alt="Lamborghini Millennio Seitenansicht">
+            <img src="../../assets/images/lambo-hinten.jpg" class="enthullung-bild" alt="Lamborghini Millennio Rückansicht">
             <!-- Fügen Sie hier weitere Bilder ein -->
         </div>
     </section>
@@ -50,7 +50,7 @@
     <section>
         <h2>Mehr erfahren</h2>
         <p>Wenn Sie mehr über den Lamborghini Futura erfahren möchten oder Interesse an einer Probefahrt haben, kontaktieren Sie uns gerne oder besuchen Sie einen unserer Lamborghini-Showrooms.</p>
-        <button onclick="location.href='kontakt.html'">Kontakt aufnehmen</button>
+        <button onclick="location.href='../../php/navigation/kontakt.php'">Kontakt aufnehmen</button>
     </section>
 </main>
 
