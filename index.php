@@ -6,6 +6,10 @@
     <title>Auto Welt - Luxus und Leistung</title>
     <link rel="icon" href="./favicon.png">
     <link rel="stylesheet" href="./css/all.css">
+    <script src="./js/video.js"></script>
+   
+
+
 </head>
 <body>
     <header>
@@ -33,6 +37,7 @@
     <!-- Weitere Inhalte oder Bilder -->
 <!--</div> -->
 
+<!--<button id="videoButton">Video ansehen</button> -->
 <!-- YouTube-Video einbetten -->
 <div class="video-container">
     <iframe class="mein-youtube-video" width="800" height="450" src="./assets/videos/cars.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -67,5 +72,8 @@
     <footer>
     <?php include './php/templates/footer.php'; ?>
 </footer>
+<script src="videoScript.js"></script>
+
+
 </body>
 </html>
