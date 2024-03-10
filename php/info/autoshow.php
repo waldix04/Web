@@ -63,9 +63,9 @@
         <h2>Fotogalerie</h2>
         <p>Hier sind einige Eindrücke von unserer Auto Show:</p>
         <div>
-            <img src="pfad/zum/bild1.jpg" alt="Futuristisches Fahrzeugkonzept">
-            <img src="pfad/zum/bild2.jpg" alt="Interaktive Workshop">
-            <img src="pfad/zum/bild3.jpg" alt="Eröffnungszeremonie">
+            <img src="../../assets/images/zukunftsdesign.jpg" alt="Futuristisches Fahrzeugkonzept">
+            <img src="../../assets/images/workshop.jpg" alt="Interaktive Workshop">
+            <img src="../../assets/images/eröffnungszeremonie.jpg" alt="Eröffnungszeremonie">
             <!-- Fügen Sie hier weitere Bilder ein -->
         </div>
     </section>

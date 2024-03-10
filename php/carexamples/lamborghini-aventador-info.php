@@ -13,7 +13,7 @@
 
     <main>
         <h1>Lamborghini Aventador</h1>
-        <img src="../../assets/images/aventador.jpg" alt="Lamborghini Aventador" style="width:100%;">
+        <img src="../../assets/images/lamborghini-aventador-ultimae-2021-01.jpg" alt="Lamborghini Aventador" style="width:100%;">
         <p>Der Lamborghini Aventador repräsentiert das Spitzenmodell der Lamborghini-Reihe. Mit seinem kraftvollen V12-Motor und seiner herausragenden Dynamik bietet der Aventador ein unvergleichliches Fahrerlebnis.</p>
         
         <h2>Spezifikationen</h2>
