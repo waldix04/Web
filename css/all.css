@@ -194,7 +194,7 @@ footer section {
     border-top: 1px solid #eee;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
 }
 
@@ -231,3 +231,6 @@ p{
     height: 80%;
 }
 
+.ulLamborghini{
+    text-align: center;
+}
