@@ -215,3 +215,19 @@ p{
     justify-content: center;  /* Zentriert die Bilder horizontal */
     align-items: center;      /* Zentriert die Bilder vertikal */
 }
+
+
+.video-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 95%; 
+}
+
+.mein-youtube-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+}
+

@@ -1,8 +1,8 @@
 <?php
 // Angenommene Daten der Gebrauchtwagen
 $gebrauchtwagen = [
-    ['Modell' => 'BMW M3', 'Jahr' => 2018, 'Kilometer' => 50000, 'Preis' => 55000, 'Bild' => 'bilder/bmw-m3.jpg'],
-    ['Modell' => 'Audi S4', 'Jahr' => 2017, 'Kilometer' => 75000, 'Preis' => 47000, 'Bild' => 'bilder/audi-s4.jpg'],
+    ['Modell' => 'BMW M3', 'Jahr' => 2018, 'Kilometer' => 50000, 'Preis' => 55000, 'Bild' => '../../assets/images/bmw-m3.jpg'],
+    ['Modell' => 'Audi S4', 'Jahr' => 2017, 'Kilometer' => 75000, 'Preis' => 47000, 'Bild' => '../../assets/images/audi s4.jpg'],
     // Fügen Sie hier weitere Gebrauchtwagen hinzu
 ];
 

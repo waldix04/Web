@@ -30,13 +30,13 @@
                     <td>F8 Tributo</td>
                     <td>Ferrari</td>
                     <td>2024</td>
-                    <td><img src="bilder/f8-tributo.jpg" alt="Ferrari F8 Tributo" width="100"></td> <!-- Pfad zum Bild anpassen -->
+                    <td><img src="../../assets/images/novitec-ferrari-f8-tributo.jpg" alt="Ferrari F8 Tributo" width="100"></td> <!-- Pfad zum Bild anpassen -->
                 </tr>
                 <tr>
                     <td>Aventador</td>
                     <td>Lamborghini</td>
                     <td>2024</td>
-                    <td><img src="bilder/aventador.jpg" alt="Lamborghini Aventador" width="100"></td> <!-- Pfad zum Bild anpassen -->
+                    <td><img src="../../assets/images/lamborghini-aventador-ultimae-2021-01.jpg" alt="Lamborghini Aventador" width="100"></td> <!-- Pfad zum Bild anpassen -->
                 </tr>
                 <!-- Fügen Sie weitere Zeilen für zusätzliche Autos hier hinzu -->
             </tbody>

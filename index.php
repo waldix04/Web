@@ -27,6 +27,18 @@
             <p>Entdecken Sie unser Angebot an Hochleistungs-Sportwagen und luxuriösen Limousinen.</p>
         </section>
 
+      <!-- Vorheriges Bild-Element -->
+<!-- <div class="bild-container">
+    <img src="Pfad_zu_Ihrem_Bild" alt="Supercars">
+    <!-- Weitere Inhalte oder Bilder -->
+<!--</div> -->
+
+<!-- YouTube-Video einbetten -->
+<div class="video-container">
+    <iframe class="mein-youtube-video" width="800" height="450" src="./assets/videos/cars.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
         <section class="featured">
             <article>
                 <img src="./assets/images/aventador.jpg" alt="Lamborghini Aventador">
