@@ -1,5 +1,13 @@
 <header>
-        <div class="logo">AutoWelt</div>
+<img src="../../assets/images/Autowelt.jpg" alt="Autowelt Logo" class="logo">
+<nav>
+  
+  <a href="../../index.php">
+    <img src="../../assets/images/Autowelt.jpg" alt="Autowelt Logo" class="logo">
+  </a>
+  <!-- Weitere Navigationselemente... -->
+</nav>
+
         <nav>
             <ul>
                 <li><a href="../../index.php">Home</a></li>

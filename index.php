@@ -13,7 +13,7 @@
 </head>
 <body>
     <header>
-        <div class="logo">AutoWelt</div>
+    <img src="./assets/images/Autowelt.jpg" alt="Autowelt Logo" class="logo">
         <nav>
             <ul>
             
