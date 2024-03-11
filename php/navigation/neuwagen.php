@@ -17,6 +17,7 @@
     <section>
         <h1>Unsere Auswahl neuer Supersportwagen</h1>
         <table>
+            <caption>Unsere Neuen Top-seller</caption>
             <thead>
                 <tr>
                     <th>Modell</th>
