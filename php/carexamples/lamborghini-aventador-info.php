@@ -17,17 +17,18 @@
         <p><pre>Der Lamborghini Aventador repräsentiert das Spitzenmodell der Lamborghini-Reihe. Mit seinem kraftvollen V12-Motor und seiner herausragenden Dynamik bietet der Aventador ein unvergleichliches Fahrerlebnis.</pre></p>
         
         <h3>Spezifikationen</h3>
-        <ul class="ulLamborghini">
-            <li>Motor: 6,5-Liter V12</li>
+        <ol class="ulLamborghini">
+            <li class="ulLamborghini_item">Motor: 6,5-Liter V12</li>
             <li>Leistung: 740 PS</li>
             <li>Maximales Drehmoment: 690 Nm</li>
             <li>0-100 km/h: 2,9 Sekunden</li>
             <li>Höchstgeschwindigkeit: 350 km/h</li>
-        </ul>
+        </ol>
 
         <hr>
+        
         <h2>Geschichte Lamborghini</h2>
-        <div class="lamborghini-text"><p>Die Geschichte von Lamborghini ist eine faszinierende Reise durch die Welt der Automobilherstellung, die von einem Mann namens <strong>Ferruccio Lamborghini</strong> ins Leben gerufen wurde.<br>
+        <div><p>Die Geschichte von Lamborghini ist eine faszinierende Reise durch die Welt der Automobilherstellung, die von einem Mann namens <strong>Ferruccio Lamborghini</strong> ins Leben gerufen wurde.<br>
         Ferruccio Lamborghini, geboren am 28. April 1916 in Renazzo di Cento, Italien, war ein visionärer Unternehmer und Ingenieur, der es wagte, die Welt der Supersportwagen zu revolutionieren.<br>
         Ursprünglich war Lamborghini ein erfolgreicher Hersteller von Traktoren und landwirtschaftlichen Maschinen.<br>
         Nach dem Zweiten Weltkrieg begann er jedoch, sein Interesse auf andere Bereiche auszudehnen. Inspiriert von seiner Leidenschaft für schnelle Autos und einer gewissen Enttäuschung über die Qualität der damals führenden Sportwagen, beschloss Lamborghini, sein eigenes Automobilunternehmen zu gründen.<br>
