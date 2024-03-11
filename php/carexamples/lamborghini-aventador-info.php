@@ -7,19 +7,17 @@
     <link rel="icon" href="../../favicon.png">
 </head>
 <body>
-    <header>
     <?php include '../../php/templates/header.php'; ?>
-    </header>
 
     <main>
         <h1>Lamborghini Aventador</h1>
         <figure>
         <img src="../../assets/images/lamborghini-aventador-ultimae-2021-01.jpg" alt="Lamborghini Aventador" style="width:100%;">
-        <figurecaption>Der Lamborghini Aventador repräsentiert das Spitzenmodell der Lamborghini-Reihe.<br>
-        Mit seinem kraftvollen V12-Motor und seiner herausragenden Dynamik bietet der Aventador ein unvergleichliches Fahrerlebnis.</figurecaption>
+        <figurecaption><span class="pseudoelemente"> Lamborghini Aventador repräsentiert das Spitzenmodell der Lamborghini-Reihe.<br>
+        Mit seinem kraftvollen V12-Motor und seiner herausragenden Dynamik bietet der Aventador ein unvergleichliches Fahrerlebnis.</span></figurecaption>
         </figure>
         
-        <h3>Spezifikationen</h3>
+        <h3 id="lamborghini_h3_überschrift">Spezifikationen</h3>
         <ol class="ulLamborghini">
             <li class="ulLamborghini_item">Motor: 6,5-Liter V12</li>
             <li>Leistung: 740 PS</li>

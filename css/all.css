@@ -195,7 +195,7 @@ footer section {
     border-top: 1px solid #eee;
 }
 
-h1, h3 {
+h1 {
     text-align: center;
 }
 
@@ -263,3 +263,19 @@ a:hover {
 }
 }
 
+.pseudoelemente::before{
+    content: "Bild: ";
+    font-weight: bold;
+}
+.pseudoelemente::after {
+    content: "\1F697";
+}
+
+#lamborghini_h3_überschrift{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+[title] {
+    background: url(Ferrari.png) 100% 100% / 15px no-repeat;
+    padding-right: 20px;
+    }
