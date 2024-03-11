@@ -24,6 +24,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
+
+
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -55,6 +58,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
             <input type="submit" value="Nachricht senden">
         </form>
+        <?php if ($_SERVER["REQUEST_METHOD"] == "POST"): ?>
+    <section>
+        <h2>Ihre eingereichte Nachricht:</h2>
+        <p><strong>E-Mail-Adresse:</strong> <?php echo htmlspecialchars($besucherEmail); ?></p>
+        <p><strong>Nachricht:</strong> <?php echo nl2br(htmlspecialchars($nachricht)); ?></p>
+    </section>
+<?php endif; ?>
     </section>
 </main>
 
