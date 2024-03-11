@@ -78,9 +78,9 @@
     </section>
 </main>
 
-<footer>
+
 <?php include '../../php/templates/footer2.php'; ?>
-</footer>
+
 
 </body>
 </html>

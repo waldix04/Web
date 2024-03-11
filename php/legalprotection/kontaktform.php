@@ -30,9 +30,9 @@
         </section>
     </main>
 
-    <footer>
+    
     <?php include '../../php/templates/footer3.php'; ?>
-    </footer>
+    
 </div>
 
 </body>
