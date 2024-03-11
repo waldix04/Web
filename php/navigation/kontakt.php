@@ -1,19 +1,19 @@
 <?php
-// Prüfen, ob das Formular abgesendet wurde
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $besucherEmail = $_POST['email'];
     $nachricht = $_POST['nachricht'];
 
-    // E-Mail-Adresse, an die die Nachricht gesendet werden soll
-    $empfaenger = "info@ihrdomain.de";
+    
+    $empfaenger = "autowelt@gmail.com";
     $betreff = "Neue Kontaktanfrage von Ihrer Webseite";
 
-    // E-Mail-Header
+    
     $header = "From: $besucherEmail\r\n";
     $header .= "Reply-To: $besucherEmail\r\n";
     $header .= "Content-Type: text/plain; charset=utf-8\r\n";
 
-    // Nachricht senden
+    
     $mailGesendet = mail($empfaenger, $betreff, $nachricht, $header);
 
     if ($mailGesendet) {
@@ -41,9 +41,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <?php include '../../php/templates/header.php'; ?>
 
+<img src="../../assets/images/kontakt2.jpg" alt="Beschreibung des Bildes" class="fixed-image">
+
 
 <main>
     <section>
+
         <h1>Kontaktieren Sie uns</h1>
         <?php if (!empty($feedback)): ?>
             <p><?php echo $feedback; ?></p>

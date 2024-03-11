@@ -32,7 +32,7 @@
             <li><strong>Leistung:</strong> 1.000 PS</li>
             <li><strong>0 auf 100 km/h:</strong> 2,5 Sekunden</li>
             <li><strong>Top-Geschwindigkeit:</strong> 380 km/h</li>
-            <!-- Weitere technische Daten hier -->
+           
         </ul>
     </section>
 

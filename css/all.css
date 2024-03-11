@@ -142,7 +142,7 @@ footer section {
     }
 }
 
-/* Stile für das Impressum */
+
 .impressum-container {
     background-color: #fff;
     padding: 20px;
@@ -170,7 +170,6 @@ footer section {
 }
 
 
-/* Stile für die Datenschutzerklärung */
 .datenschutz-container {
     width: 80%;
     margin: auto;
@@ -205,16 +204,16 @@ p{
 
 
 .enthullung-bild {
-    width: 300px;  /* Breite der Bilder */
-    height: auto;  /* Höhe automatisch anpassen */
-    margin: 10px;  /* Abstand zwischen den Bildern */
+    width: 300px;  
+    height: auto;  
+    margin: 10px;  
 }
 
 .bilder-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;  /* Zentriert die Bilder horizontal */
-    align-items: center;      /* Zentriert die Bilder vertikal */
+    justify-content: center;  
+    align-items: center;     
 }
 
 
@@ -235,17 +234,20 @@ p{
 
 .sticky-img {
     position: sticky;
-    top: 50px; /* Abstand zum oberen Rand */
+    top: 50px; 
 }
 
-.fixed-img {
-    position: fixed;
-    bottom: 20px; /* Abstand zum unteren Rand */
-    right: 20px; /* Abstand zum rechten Rand */
+.fixed-image {
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    width: 150px; 
+    height: auto; 
 }
+
 
 .absolute-img {
     position: absolute;
-    top: 100px; /* Abstand zum oberen Rand des nächstgelegenen positionierten übergeordneten Elements */
-    left: 100px; /* Abstand zum linken Rand des übergeordneten Elements */
+    top: 100px; 
+    left: 100px;
 }

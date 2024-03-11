@@ -1,9 +1,9 @@
 <?php
-// Angenommene Daten der Gebrauchtwagen
+
 $gebrauchtwagen = [
     ['Modell' => 'BMW M3', 'Jahr' => 2018, 'Kilometer' => 50000, 'Preis' => 55000, 'Bild' => '../../assets/images/bmw-m3.jpg'],
     ['Modell' => 'Audi S4', 'Jahr' => 2017, 'Kilometer' => 75000, 'Preis' => 47000, 'Bild' => '../../assets/images/audi_s4.jpg'],
-    // Fügen Sie hier weitere Gebrauchtwagen hinzu
+   
 ];
 
 // Filter-Logik
@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <section>
         <h1>Unsere Auswahl an Gebrauchtwagen</h1>
         
-        <!-- Filter-Formular -->
+       
         <form method="post" action="gebrauchtwagen.php">
     <label for="minPreis">Mindestpreis:</label>
     <input type="text" id="minPreis" name="minPreis" placeholder="*" required>

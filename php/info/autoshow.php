@@ -23,8 +23,7 @@
 
     <section>
         <h2>Agenda</h2>
-        <!-- Agenda Details -->
-        <!-- Tag 1 -->
+      
         <h3>Tag 1: Die Zukunft Beginnt</h3>
         <ul>
             <li>10:00 Uhr: Eröffnungszeremonie mit Keynote von Elon Tusk, CEO von Falcon Motors</li>
@@ -32,7 +31,7 @@
             <li>15:00 Uhr: Live-Demonstration autonomer Fahrzeuge</li>
             <li>18:00 Uhr: Networking-Cocktail mit Live-Musik von DJ Gearshift</li>
         </ul>
-        <!-- Tag 2 -->
+       
         <h3>Tag 2: Design & Innovation</h3>
         <ul>
             <li>09:00 Uhr: Workshop "Design Thinking in der Automobilindustrie"</li>
@@ -40,7 +39,7 @@
             <li>14:00 Uhr: Enthüllung des Phoenix X, das erste fliegende Auto von Skybound Automotives</li>
             <li>16:00 Uhr: Meet & Greet mit den Designern hinter den futuristischen Konzeptautos</li>
         </ul>
-        <!-- Tag 3 -->
+       
         <h3>Tag 3: Nachhaltigkeit & Technologie</h3>
         <ul>
             <li>10:00 Uhr: Rundtischgespräch "Grüne Technologien in der Automobilindustrie"</li>
@@ -66,7 +65,7 @@
             <img src="../../assets/images/zukunftsdesign.jpg" alt="Futuristisches Fahrzeugkonzept">
             <img src="../../assets/images/workshop.jpg" alt="Interaktive Workshop">
             <img src="../../assets/images/eröffnungszeremonie.jpg" alt="Eröffnungszeremonie">
-            <!-- Fügen Sie hier weitere Bilder ein -->
+            
         </div>
     </section>
 

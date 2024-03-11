@@ -40,7 +40,7 @@
                     <td>2,9 Sekunden</td>
                     <td>ab 230.000 €</td>
                 </tr>
-                <!-- Weitere Zeilen für andere Modelle hinzufügen -->
+                
             </table>
         </section>
 
@@ -50,7 +50,7 @@
                 <h3>Max Mustermann</h3>
                 <p>"Mein neuer Ferrari ist ein absoluter Traum. Die Beratung bei Auto Welt war erstklassig!"</p>
             </article>
-            <!-- Weitere Kundenbewertungen hinzufügen -->
+           
         </section>
 
         <section class="events">
@@ -58,14 +58,14 @@
             <ul>
                 <li>Auto Show Frankfurt - 12. September 2024</li>
                 <li>Enthüllung des neuen Porsche 911 - 20. Oktober 2024</li>
-                <!-- Weitere Events hinzufügen -->
+            
             </ul>
         </section>
 
         <section class="offers">
             <h2>Spezielle Angebote</h2>
             <p>Verpassen Sie nicht unsere aktuellen Angebote für ausgewählte Modelle und Dienstleistungen.</p>
-            <!-- Details zu speziellen Angeboten hinzufügen -->
+            
         </section>
     </main>
     <?php include '../../php/templates/footer2.php'; ?>

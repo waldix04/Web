@@ -39,7 +39,7 @@
                     <td>2024</td>
                     <td><img src="../../assets/images/lamborghini-aventador-ultimae-2021-01.jpg" alt="Lamborghini Aventador" width="100"></td> <!-- Pfad zum Bild anpassen -->
                 </tr>
-                <!-- Fügen Sie weitere Zeilen für zusätzliche Autos hier hinzu -->
+               
             </tbody>
             <tfoot>
                 <tr>
