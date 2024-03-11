@@ -50,6 +50,13 @@
             </tfoot>
         </table>
         <br>
+        <dl>
+        <dt>Lamborghini Aventador</dt>
+        <dd>Preis: ab 312.000€ </dd>
+        <dt>Ferrari F8 Tributo</dt>
+        <dd>Preis: ab 228.661€ </dd>
+        </dl>
+        <br>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
   <!-- Karosserie -->
   <path d="M20,50 L80,50 L70,90 L30,90 Z" fill="#007bff" />
