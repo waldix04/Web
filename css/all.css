@@ -252,17 +252,18 @@ p{
     left: 100px;
 }
 
-.Ferrari_hover{
-a:visited {
+.Ferrari_hover a:visited {
     color: #FFFFFF;
 }
-a:hover {
+
+.Ferrari_hover a:hover {
     text-decoration: underline;
 }
-    a {
+
+.Ferrari_hover a {
     text-decoration: none;
 }
-}
+
 
 .pseudoelemente::before{
     content: "Bild: ";
