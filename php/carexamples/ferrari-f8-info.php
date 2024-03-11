@@ -2,17 +2,17 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Ferrari F8 Tributo</title>
+    <title> Ferrari F8 Tributo</title>
     <link rel="stylesheet" href="../../css/all.css">
     <link rel="icon" href="../../favicon.png">
 </head>
 <body>
-    <header>
+    
     <?php include '../../php/templates/header.php'; ?>
-    </header>
+    
 
     <main>
-        <h1>Ferrari F8 Tributo</h1>
+        <h1><a class="Ferrari_hover" href="https://www.ferrari.com/de-DE" title="Ferrari">Ferrari</a> F8 Tributo</h1>
         <img src="../../assets/images/novitec-ferrari-f8-tributo.jpg" alt="Ferrari F8 Tributo" style="width:100%;">
         <p>Der Ferrari F8 Tributo ist das neueste Supercar aus dem Hause Ferrari, das eine Hommage an den leistungsstärksten V8-Motor in der Geschichte von Ferrari darstellt. Mit seiner außergewöhnlichen Leistung und seinem atemberaubenden Design setzt der F8 Tributo neue Maßstäbe im Supercar-Segment.</p>
         
