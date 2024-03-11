@@ -32,7 +32,7 @@
         </section>
 
 <div class="video-container">
-    <iframe class="mein-youtube-video" width="800" height="450" src="./assets/videos/cars.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="mein-youtube-video" width="800" height="450" src="./assets/videos/cars.mp4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
