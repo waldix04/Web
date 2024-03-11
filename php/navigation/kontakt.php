@@ -51,10 +51,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <?php endif; ?>
         <form method="post" action="kontakt.php">
             <label for="email">Ihre E-Mail-Adresse:</label>
-            <input type="email" id="email" name="email" required>
+            <input type="email" id="email" name="email" placeholder="*" required>
 
             <label for="nachricht">Ihre Nachricht:</label>
-            <textarea id="nachricht" name="nachricht" required></textarea>
+            <textarea id="nachricht" name="nachricht" placeholder="*" required></textarea>
 
             <input type="submit" value="Nachricht senden">
         </form>
