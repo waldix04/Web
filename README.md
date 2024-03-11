@@ -20,3 +20,5 @@ XAMPP-Version:
 
 Hinweise:
 * ..
+
+Kurze Info: Der Html Validator hat bis auf einen Fehler der nicht erklärt und gelöst werden konnte nur Hinweise gegeben.
