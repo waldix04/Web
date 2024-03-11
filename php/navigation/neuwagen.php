@@ -41,6 +41,13 @@
                 </tr>
                 <!-- Fügen Sie weitere Zeilen für zusätzliche Autos hier hinzu -->
             </tbody>
+            <tfoot>
+                <tr>
+                    <td>Autozustand</td>
+                    <td>Ferrari:<br> Neu</td>
+                    <td>Lamborghini:<br> Neu</td>
+                </tr>
+            </tfoot>
         </table>
     </section>
 </main>

@@ -73,14 +73,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </tr>
                 <?php endforeach; ?>
             </tbody>
-            <tfoot>
-                <tr>
-                    <td>Summe</td>
-                    <td></td>
-                    <td>125.000</td>
-                    <td>102.000</td>
-                </tr>
-            </tfoot>
         </table>
     </section>
 </main>
