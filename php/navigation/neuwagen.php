@@ -49,6 +49,17 @@
                 </tr>
             </tfoot>
         </table>
+        <br>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Karosserie -->
+  <path d="M20,50 L80,50 L70,90 L30,90 Z" fill="#007bff" />
+  <!-- Fenster -->
+  <rect x="35" y="60" width="30" height="20" fill="#ffffff" />
+  <!-- Räder -->
+  <circle cx="30" cy="90" r="8" fill="#000000" />
+  <circle cx="70" cy="90" r="8" fill="#000000" />
+</svg>
+
     </section>
 </main>
 
