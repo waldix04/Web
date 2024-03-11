@@ -251,25 +251,24 @@ p{
     height: auto; 
 }
 
-
 .absolute-img {
     position: absolute;
     top: 100px; 
     left: 100px;
 }
 
-.Ferrari_hover{
-a:visited {
-    background-color: #00FFFF;
+.Ferrari_hover a:visited {
     color: #FFFFFF;
 }
-a:hover {
+
+.Ferrari_hover a:hover {
     text-decoration: underline;
 }
-    a {
+
+.Ferrari_hover a {
     text-decoration: none;
 }
-}
+
 
 .pseudoelemente::before{
     content: "Bild: ";
@@ -286,4 +285,8 @@ a:hover {
 [title] {
     background: url(https://upload.wikimedia.org/wikipedia/de/c/c0/Scuderia_Ferrari_Logo.svg) 100% 100% / 15px no-repeat;
     padding-right: 20px;
+}
+
+.schriftart{
+    font-family:"MadamiOne";
 }
