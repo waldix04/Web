@@ -249,3 +249,17 @@ p{
     top: 100px; /* Abstand zum oberen Rand des nächstgelegenen positionierten übergeordneten Elements */
     left: 100px; /* Abstand zum linken Rand des übergeordneten Elements */
 }
+
+.Ferrari_hover{
+a:visited {
+    background-color: #00FFFF;
+    color: #FFFFFF;
+}
+a:hover {
+    text-decoration: underline;
+}
+    a {
+    text-decoration: none;
+}
+}
+
