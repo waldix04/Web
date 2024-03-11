@@ -40,17 +40,27 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         <!-- Filter-Formular -->
         <form method="post" action="gebrauchtwagen.php">
-            <label for="minPreis">Min. Preis:</label>
-            <input type="number" id="minPreis" name="minPreis">
-            
-            <label for="maxPreis">Max. Preis:</label>
-            <input type="number" id="maxPreis" name="maxPreis">
-            
-            <label for="maxKilometer">Max. Kilometer:</label>
-            <input type="number" id="maxKilometer" name="maxKilometer">
-            
-            <input type="submit" value="Filtern">
-        </form>
+    <label for="minPreis">Mindestpreis:</label>
+    <input type="text" id="minPreis" name="minPreis" placeholder="*" required>
+    <?php if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['minPreis'])): ?>
+        <div>Gewählter Mindestpreis: <?php echo htmlspecialchars($_POST['minPreis']); ?></div>
+    <?php endif; ?>
+
+    <label for="maxPreis">Höchstpreis:</label>
+    <input type="text" id="maxPreis" name="maxPreis" placeholder="*" required>
+    <?php if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['maxPreis'])): ?>
+        <div>Gewählter Höchstpreis: <?php echo htmlspecialchars($_POST['maxPreis']); ?></div>
+    <?php endif; ?>
+
+    <label for="maxKilometer">Maximale Kilometerleistung:</label>
+    <input type="text" id="maxKilometer" name="maxKilometer" placeholder="*" required>
+    <?php if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['maxKilometer'])): ?>
+        <div>Gewählte maximale Kilometerleistung: <?php echo htmlspecialchars($_POST['maxKilometer']); ?></div>
+    <?php endif; ?>
+
+    <input type="submit" value="Suchen">
+</form>
+
 
         <table>
             <thead>
