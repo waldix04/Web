@@ -43,7 +43,7 @@
             <img src="../../assets/images/lambo-frontansicht.jpg" class="enthullung-bild" alt="Lamborghini Millennio Frontansicht">
             <img src="../../assets/images/lambo-seite.jpg" class="enthullung-bild" alt="Lamborghini Millennio Seitenansicht">
             <img src="../../assets/images/lambo-hinten.jpg" class="enthullung-bild" alt="Lamborghini Millennio Rückansicht">
-            <!-- Fügen Sie hier weitere Bilder ein -->
+           
         </div>
     </section>
 
