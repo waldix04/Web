@@ -9,9 +9,9 @@
 </head>
 <body>
 
-<header>
+
 <?php include '../../php/templates/header.php'; ?>
-</header>
+
 
 <main>
     <section>

@@ -8,9 +8,10 @@
     <link rel="icon" href="../../favicon.png">
 </head>
 <body>
-<header>
+
+
 <?php include '../../php/templates/header.php'; ?>
-    </header>
+    
 
     <main>
         <section class="hero">
